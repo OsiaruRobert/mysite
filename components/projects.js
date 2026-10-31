@@ -60,7 +60,7 @@ export const projects = [
     category: "Profile Platform",
     year: "2026",
     summary: "A profile creating platform for Nigerian Engineers to showcase their skills and connect with potential employers.",
-    tags: ["next.js","expressjs", "mongodb", "s3 bucket"],
+    tags: ["next.js", "expressjs", "mongodb", "s3 bucket"],
     image: "https://img.osiaru.top/engineers.png",
     gif: "",
     video: "",
@@ -73,13 +73,78 @@ export const projects = [
     category: "web App",
     year: "2026",
     summary: "A web application that helps churches and organizations to follow up with new members and track their progress.",
-    tags: ["react.js", "mongodb","expressjs"],
+    tags: ["react.js", "mongodb", "expressjs"],
     image: "https://img.osiaru.top/mbmb.png",
     gif: "",
     video: "",
 
     // url: "https://engineer.ng/",
-  }
+  },
+
+  {
+    title: "Creative Verse",
+    category: "web App",
+    year: "2026",
+    summary: "One ecosystem for creatives and the people who need them.",
+    tags: ["next.js", "mongodb", "expressjs"],
+    image: "https://img.osiaru.top/creatives.png",
+    gif: "",
+    video: "https://img.osiaru.top/video/creative.mp4",
+    url: "https://creator-verse-phi.vercel.app/",
+
+  },
+
+  {
+    title: "Church Website",
+    category: "web App",
+    year: "2026",
+    summary: "First Baptist Church Ovom is a Bible-teaching family on the Ground of Victory, where every member is a minister, formed in the Word and sent to serve Yenagoa and beyond.",
+    tags: ["next.js", "mongodb", "expressjs"],
+    image: "https://img.osiaru.top/fbc-ovom.png",
+    gif: "",
+    // video: "https://img.osiaru.top/video/creative.mp4",
+
+    url: "https://fbc-ovom-web-test.osiaru.top/",
+  },
+
+  {
+    title: "Ashura Study",
+    category: "web App",
+    year: "2026",
+    summary: "Ashura Study reads your PDFs, lecture slides and handwritten pages, then answers your questions with a plain explanation and the exact page it came from.",
+    tags: ["html"],
+    image: "https://img.osiaru.top/ashura.png",
+    gif: "",
+    // video: "https://img.osiaru.top/video/creative.mp4",
+
+    url: "https://ashura-ai-study.vercel.app/",
+  },
+
+  {
+    title: "Engr Seigha Ineife",
+    category: "Portfolio site",
+    year: "2026",
+    summary: "Seigha Ineife is a registered civil engineer with more than fifteen years of experience in road, bridge, drainage and building projects across Bayelsa State.",
+    tags: ["nextjs"],
+    image: "https://img.osiaru.top/seigha-ineife.png",
+    gif: "",
+    // video: "https://img.osiaru.top/video/creative.mp4",
+
+    url: "https://seigha-ineife.engr.ng/",
+  },
+
+  {
+    title: "Hotel Site",
+    category: "Landing Page",
+    year: "2026",
+    summary: " ( Demo ) Nun River Hotel & Spa sits on a quiet bend of Epie Creek in Yenagoa, where the Niger Delta's waterways meet the everyday rhythm of Bayelsa's capital. Every room looks out over water or garden; every evening ends with the sound of the creek.",
+    tags: ["html"],
+    image: "https://img.osiaru.top/hotel.png",
+    gif: "",
+    // video: "https://img.osiaru.top/video/creative.mp4",
+
+    url: "https://osiaru-hotel-site.vercel.app/",
+  },
   // {
   //   title: "Jamb PQ",
   //   category: "web App",
