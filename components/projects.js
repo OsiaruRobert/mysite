@@ -69,10 +69,10 @@ export const projects = [
   },
 
   {
-    title: "New Member Follow Up",
-    category: "web App",
+    title: "Church Admin App",
+    category: "Private App",
     year: "2026",
-    summary: "A web application that helps churches and organizations to follow up with new members and track their progress.",
+    summary: "A web application that helps churches and organizations Administration manage and intract with company data. (members, users, etc)",
     tags: ["react.js", "mongodb", "expressjs"],
     image: "https://img.osiaru.top/mbmb.png",
     gif: "",
@@ -145,6 +145,25 @@ export const projects = [
 
     url: "https://osiaru-hotel-site.vercel.app/",
   },
+
+
+  
+
+  {
+    title: "Hotel Site",
+    category: "Landing Page",
+    year: "2026",
+    summary: " ( Demo ) Nun River Hotel & Spa sits on a quiet bend of Epie Creek in Yenagoa, where the Niger Delta's waterways meet the everyday rhythm of Bayelsa's capital. Every room looks out over water or garden; every evening ends with the sound of the creek.",
+    tags: ["html"],
+    image: "https://img.osiaru.top/hotel.png",
+    gif: "",
+    // video: "https://img.osiaru.top/video/creative.mp4",
+
+    url: "https://osiaru-hotel-site.vercel.app/",
+  },
+
+
+
   // {
   //   title: "Jamb PQ",
   //   category: "web App",
